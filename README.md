@@ -36,6 +36,7 @@ References:
 
 
 Limitations and Future Work:
+
 Limitations:
 1. Strong embedding reduces image PSNR
 2. Large cropping can still remove watermark
