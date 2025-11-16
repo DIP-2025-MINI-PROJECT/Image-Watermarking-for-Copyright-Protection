@@ -34,6 +34,7 @@ Outputs:
 3. Extracted invisible watermark with MSE, PSNR, NCC metrics.
 
 Output Screenshots: 
+
 <img width="830" height="200" alt="image" src="https://github.com/user-attachments/assets/0cb9aec9-09e0-468b-85c4-16aa58bc07f8" />
 <img width="798" height="188" alt="image" src="https://github.com/user-attachments/assets/40fa8724-cb7b-450a-95ba-59ca019e18e9" />
 <img width="863" height="582" alt="image" src="https://github.com/user-attachments/assets/dd99abab-64f5-43f4-859a-444a4042457e" />
