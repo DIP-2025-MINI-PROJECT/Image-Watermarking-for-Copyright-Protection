@@ -13,7 +13,19 @@ Additional concepts used –
 2. Spread Spectrum (PN noise)
 3. Tiled watermarking for cropping resistance
 
-Dataset –
+Dataset – No external dataset was used.
+
+The project uses the below manually provided images:
+
+Host images: 
+
+1. https://tinyurl.com/amnze5mm
+2. https://tinyurl.com/3fzc6hpz
+3. https://tinyurl.com/57w47sh3
+4. https://tinyurl.com/4veenfxw
+5. https://tinyurl.com/3633bhtn 
+
+Watermark logo: 
 
 Novelty –
 1. Hybrid DWT + SVD + Spread Spectrum invisible watermarking
