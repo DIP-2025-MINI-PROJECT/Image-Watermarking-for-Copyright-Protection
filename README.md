@@ -19,6 +19,7 @@ Novelty –
 1. Hybrid DWT + SVD + Spread Spectrum invisible watermarking
 2. Dual watermarking (visible + invisible)
 3. Cropping-resistant tiled embedding strategy
+4. Watermark remains sharp post attacks like noise, compression and cropping enabling reliable watermark extraction
 
 Contributors:
 1. H P Nanditha (PES1UG23EC113)
