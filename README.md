@@ -33,6 +33,13 @@ Outputs:
 2. Attacked images (noise, compression, cropping).
 3. Extracted invisible watermark with MSE, PSNR, NCC metrics.
 
+Output Screenshots: 
+<img width="830" height="200" alt="image" src="https://github.com/user-attachments/assets/0cb9aec9-09e0-468b-85c4-16aa58bc07f8" />
+<img width="798" height="188" alt="image" src="https://github.com/user-attachments/assets/40fa8724-cb7b-450a-95ba-59ca019e18e9" />
+<img width="863" height="582" alt="image" src="https://github.com/user-attachments/assets/dd99abab-64f5-43f4-859a-444a4042457e" />
+
+
+
 References:
 1. [1]A. Furqan and M. Kumar, "Study and Analysis of Robust DWT-SVD Domain Based Digital Image Watermarking Technique Using MATLAB," 2015 IEEE International Conference on Computational Intelligence & Communication Technology, Ghaziabad, India, 2015, pp. 638-644, doi: 10.1109/CICT.2015.74.
 2. [2]C. -C. Lai and C. -C. Tsai, "Digital Image Watermarking Using Discrete Wavelet Transform and Singular Value Decomposition," in IEEE Transactions on Instrumentation and Measurement, vol. 59, no. 11, pp. 3060-3063, Nov. 2010, doi: 10.1109/TIM.2010.2066770.
