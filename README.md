@@ -25,7 +25,7 @@ Host images:
 4. https://tinyurl.com/4veenfxw
 5. https://tinyurl.com/3633bhtn 
 
-Watermark logo: 
+Watermark image: https://tinyurl.com/mwd9k4k7
 
 Novelty –
 1. Hybrid DWT + SVD + Spread Spectrum invisible watermarking
