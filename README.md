@@ -26,7 +26,7 @@ Contributors:
 3. Swetha Krishnakumar (PES1UG23EC318)
 
 Steps:
-1. Clone Repository git clone
+1. Clone Repository git clone https://github.com/DIP-2025-MINI-PROJECT/Image-Watermarking-for-Copyright-Protection.git
 
 References:
 1. [1]A. Furqan and M. Kumar, "Study and Analysis of Robust DWT-SVD Domain Based Digital Image Watermarking Technique Using MATLAB," 2015 IEEE International Conference on Computational Intelligence & Communication Technology, Ghaziabad, India, 2015, pp. 638-644, doi: 10.1109/CICT.2015.74.
